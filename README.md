@@ -30,4 +30,4 @@ Weather App adalah aplikasi sederhana dan intuitif yang memberikan informasi cua
    Setelah semua dependensi terinstal, jalankan aplikasi dengan perintah berikut:
    ```bash
    flutter run
-   ```
+   
