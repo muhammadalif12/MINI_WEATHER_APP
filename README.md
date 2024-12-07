@@ -13,21 +13,21 @@ Weather App adalah aplikasi sederhana dan intuitif yang memberikan informasi cua
    Pastikan Anda sudah menginstal Git dan Flutter pada perangkat Anda.  
 2.  Clone Repositori  
    Jalankan perintah berikut untuk menyalin kode aplikasi ke komputer Anda:
-    bash
+    ```bash
     git clone https://github.com/muhammadalif12/MINI_WEATHER_APP
-    
+    ```
 4. Masuk ke Direktori Proyek 
    Pindah ke folder proyek yang telah di-clone:
-   bash
+   ```bash
    cd MINI_WEATHER_APP
-   
+   ```
 6. Instal Dependensi  
    Pastikan semua paket yang dibutuhkan sudah terinstal dengan menjalankan perintah berikut:
-   bash
+   ```bash
    flutter pub get
-   
+   ```
 8. Jalankan Aplikasi  
    Setelah semua dependensi terinstal, jalankan aplikasi dengan perintah berikut:
-   bash
+   ```bash
    flutter run
-   
+   ```
