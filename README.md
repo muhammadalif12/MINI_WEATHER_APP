@@ -31,7 +31,7 @@
    ```bash
    flutter run
    ```
-   ##Constributor
+   ## Constributor
    1. Faza Humairah
    2. Jhona Simanjuntak
    3. Muhammad Alif
