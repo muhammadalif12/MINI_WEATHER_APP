@@ -22,8 +22,9 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di perangkat Anda:
    - Git sudah terpasang untuk manajemen repositori.
 2. Clone Repositori   
    Jalankan perintah berikut untuk menyalin kode aplikasi ke komputer Anda:
-bash
+ ```bash
     git clone https://github.com/muhammadalif12/MINI_WEATHER_APP
+ ```
 3. Masuk ke Direktori Proyek 
    Pindah ke folder proyek yang telah di-clone:
 bash
@@ -50,7 +51,7 @@ Weather App dikembangkan dengan penuh dedikasi oleh:
 
 ## ✨ Temukan Kami
 Tetap terhubung dengan kami untuk pembaruan lebih lanjut atau kontribusi ke proyek ini:
-- Repositori GitHub: Weather App [Weather App](https://github.com/muhammadalif69/MINI_WEATHER_APP/edit/faza/README.md)
+- Repositori GitHub: Weather App [Weather App](https://github.com/muhammadalif69/MINI_WEATHER_APP)
 
 
 ## 🌟 Dukungan dan Kontribusi
