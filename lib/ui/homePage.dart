@@ -1,7 +1,7 @@
 import 'package:intl/intl.dart';
 import 'package:mini_weather_app/components/weather_item.dart';
 import 'package:mini_weather_app/widgets/constants.dart';
-//import 'package:mini_weather_app/ui/detail_page.dart';
+import 'package:mini_weather_app/ui/detail_page.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
@@ -62,7 +62,7 @@ class _HomePageState extends State<HomePage> {
 
         currentweatherStatus = currentWeather['condition']['text'];
         weatherIcon =
-            currentweatherStatus.replaceAll(' ', ' ').toLowerCase() + '.png';
+            '${currentweatherStatus.replaceAll(' ', ' ').toLowerCase()}.png';
         temperature = currentWeather['temp_c'].toInt();
         humidity = currentWeather['humidity'].toInt();
         windSpeed = currentWeather['wind_kph'].toInt();
@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
 
     if (wordList.isNotEmpty) {
       if (wordList.length > 1) {
-        return wordList[0] + ' ' + wordList[1];
+        return '${wordList[0]} ${wordList[1]}';
       } else {
         return wordList[0];
       }
@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
         color: _constants.primaryColor.withOpacity(.2),
         child: Column(crossAxisAlignment: CrossAxisAlignment.center, children: [
           Container(
-            padding: EdgeInsets.symmetric(vertical: 10, horizontal: 10),
+            padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 10),
             height: size.height * .7,
             decoration: BoxDecoration(
                 gradient: _constants.linearGradientBlue,
@@ -301,7 +301,7 @@ class _HomePageState extends State<HomePage> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Text('Today',
+                      const Text('Today',
                           style: TextStyle(
                               fontSize: 20, fontWeight: FontWeight.bold)),
                       GestureDetector(
@@ -331,10 +331,9 @@ class _HomePageState extends State<HomePage> {
                               .substring(11, 13);
                           String forecastWeatherName =
                               hourlyWeatherForecast[index]["condition"]["text"];
-                          String forecastWeatherIcon = forecastWeatherName
+                          String forecastWeatherIcon = "${forecastWeatherName
                                   .replaceAll(' ', ' ')
-                                  .toLowerCase() +
-                              ".png";
+                                  .toLowerCase()}.png";
 
                           String forecastTemperature =
                               hourlyWeatherForecast[index]["temp_c"]
@@ -342,15 +341,15 @@ class _HomePageState extends State<HomePage> {
                                   .toString();
 
                           return Container(
-                            padding: EdgeInsets.symmetric(vertical: 15),
-                            margin: EdgeInsets.only(right: 20),
+                            padding: const EdgeInsets.symmetric(vertical: 15),
+                            margin: const EdgeInsets.only(right: 20),
                             width: 60,
                             decoration: BoxDecoration(
                                 color: currentHour == forecastHour
                                     ? _constants.primaryColor
                                     : Colors.white,
                                 borderRadius:
-                                    BorderRadius.all(Radius.circular(50)),
+                                    const BorderRadius.all(Radius.circular(50)),
                                 boxShadow: [
                                   BoxShadow(
                                       offset: const Offset(0, 1),
