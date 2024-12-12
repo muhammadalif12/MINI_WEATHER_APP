@@ -3,14 +3,10 @@ Weather App adalah aplikasi modern yang menyajikan informasi cuaca terkini secar
 <br>
 
 # 🌍 Fitur Utama
-- Data Cuaca Real-Time
-  Informasi terkini tentang suhu, kondisi langit, kecepatan angin, dan prediksi harian.
-- Prediksi Harian
-  Persiapkan hari Anda dengan informasi akurat.
-- Antarmuka Elegan
-  Desain yang minimalis dan ramah pengguna.
-- Responsif dan Cepat
-  Pengalaman pengguna yang optimal dengan teknologi terbaru.   
+- Data Cuaca Real-Time: Informasi terkini tentang suhu, kondisi langit, kecepatan angin, dan prediksi harian.
+- Prediksi Harian: Persiapkan hari Anda dengan informasi akurat.
+- Antarmuka Elegan: Desain yang minimalis dan ramah pengguna.
+- Responsif dan Cepat: Pengalaman pengguna yang optimal dengan teknologi terbaru.   
 <br>
 
 # 🛠️ Teknologi yang Digunakan  
