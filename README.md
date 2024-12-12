@@ -61,7 +61,7 @@ Tetap terhubung dengan kami untuk pembaruan lebih lanjut atau kontribusi ke proy
 # 🌟 Dukungan dan Kontribusi
 Kami dengan senang hati menerima kontribusi Anda untuk pengembangan aplikasi ini!   
 - Laporkan bug atau ajukan fitur baru, [Hubungi Kami](https://wa.me/+6285262128251).   
-- Buat pull request untuk perbaikan atau fitur tambahan.      
+- Buat pull request untuk perbaikan atau fitur tambahan.<br>
 Terima kasih atas dukungan Anda! Mari kita buat aplikasi ini semakin baik bersama-sama.      
 <br>
 
