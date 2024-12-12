@@ -3,10 +3,14 @@ Weather App adalah aplikasi modern yang menyajikan informasi cuaca terkini secar
 <br>
 
 # 🌍 Fitur Utama
-- Data Cuaca Real-Time: Informasi terkini tentang suhu, kondisi langit, kecepatan angin, dan prediksi harian.
-- Prediksi Harian: Persiapkan hari Anda dengan informasi akurat.
-- Antarmuka Elegan: Desain yang minimalis dan ramah pengguna.
-- Responsif dan Cepat: Pengalaman pengguna yang optimal dengan teknologi terbaru.   
+- Data Cuaca Real-Time
+  Informasi terkini tentang suhu, kondisi langit, kecepatan angin, dan prediksi harian.
+- Prediksi Harian
+  Persiapkan hari Anda dengan informasi akurat.
+- Antarmuka Elegan
+  Desain yang minimalis dan ramah pengguna.
+- Responsif dan Cepat
+  Pengalaman pengguna yang optimal dengan teknologi terbaru.   
 <br>
 
 # 🛠️ Teknologi yang Digunakan  
@@ -45,7 +49,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di perangkat Anda:
 </div><br>
 
 # 👨‍👩‍👦 Kontributor
-Weather App dikembangkan dengan penuh oleh Tim Skywatchers, diantaranya:
+Weather App dikembangkan penuh oleh Tim Skywatchers, diantaranya:
 1. Faza Humairah
 2. Jhona Simanjuntak
 3. Muhammad Alif
