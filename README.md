@@ -18,7 +18,7 @@ Weather App adalah aplikasi modern yang menyajikan informasi cuaca terkini secar
 # 🔄 Getting Started
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di perangkat Anda:
 1. Pastikan Prasyarat Terpenuhi   
-- Flutter sudah terinstal di perangkat Anda. Petunjuk Instalasi Flutter
+- Flutter sudah terinstal di perangkat Anda. [Petunjuk Instalasi Flutter](https://docs.flutter.dev/get-started/install?_gl=1*9mxgvu*_ga*ODg4NzgxNjc0LjE3MzQwMDY3MzI.*_ga_04YGWK0175*MTczNDAwNjczMS4xLjAuMTczNDAwNjczMS4wLjAuMA..)
 - Git sudah terpasang untuk manajemen repositori.
 2. Clone Repositori   
    Jalankan perintah berikut untuk menyalin kode aplikasi ke komputer Anda:
@@ -40,8 +40,8 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di perangkat Anda:
    ```bash
    flutter run
     ```
-<div align="center">
-    <p><em><b>Catatan: Pastikan emulator atau perangkat fisik Anda telah terhubung.</b></em></p>
+<div align="start">
+    <p><b>Catatan: Pastikan emulator atau perangkat fisik Anda telah terhubung.</b></p>
 </div><br>
 
 
